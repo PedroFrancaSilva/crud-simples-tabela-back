@@ -1,3 +1,3 @@
 # Crud simples usando uma tabela
 
-Esse projeto foi criado para mostrar a criação de um CRUD de usuário simples. Ele é dividido em FrontEnd e BackEnd, esse projeto se trata da parte do BackEnd. O BackEnd pode ser encontrado aqui: . Para acessar a documentação da API, é só entrar em: 
+Esse projeto foi criado para mostrar a criação de um CRUD de usuário simples. Ele é dividido em FrontEnd e BackEnd, esse projeto se trata da parte do BackEnd. O Frontnd pode ser encontrado aqui: https://github.com/PedroFrancaSilva/crud-simples-tabela-front e testado aqui: https://crud-simples-front.herokuapp.com/. Para acessar a documentação da API, é só entrar em: https://crud-simples-back.herokuapp.com/docs
