@@ -26,9 +26,13 @@ const swaggerDefinition = {
   },
   servers: [
     {
+      url: 'https://crud-simples-back.herokuapp.com/',
+      description: 'Heroku test server',
+    },
+    {
       url: 'http://localhost:3001',
       description: 'Development server',
-    },
+    }
   ],
 };
 
